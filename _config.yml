@@ -1,5 +1,5 @@
 title: Carly Wilhelm
-description: 
+description: A Domain of My Own, for RWDA Fall 2018
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -14,14 +14,14 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "Lore Pirri"
+author: "Carly Wilhelm"
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: 
 #  site:
 facebook:
-  #publisher: 1592372034171500
-  #profile_id: 1809805629
-  app_id: 1798910940422432 # cayman-blog
-  #authors: lorepirri
+  #publisher: 
+  #profile_id:
+  app_id: 
+  #authors: 
 #  admins:
