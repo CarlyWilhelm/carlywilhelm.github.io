@@ -5,9 +5,9 @@ tagline: A few more words about this theme
 permalink: /about.html
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+Fall 2018 Reading and Writing in a Digital Age
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+This is a site is an integral part of the Fall 2018 course, Reading and Writing in a Digital Age. The class explores the point where literature of various mediums intersects with digital technology. It will house responsive blog posts, a variety of writing assignments,  and other pertinent information to fulfill class objectives. 
 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
