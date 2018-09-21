@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Welcome to Jekyll"
+title: "Complicating Genre in the Future of Football"
 ---
 Jon Bois’s “The Future of Football” leaves many areas to be unpacked. Bois makes use of videos, text, conversations, newspaper clips, images, maps, graphics, and other mediums to construct a futuristic society. Although the story tackles subjects like mortality, technology, and human nature, the root is grounded in sports tradition that is popular today: football. The variety of mediums and the array of topics Bois features work to complicate the notion of genre as we know it. In order to more fully understand the use of genre in “The Future of Football”, I want to parse out elements of both sports journalism and science fiction that are apparent in the story. 
 The science fiction elements of 17776 are fairly clear. The story is set thousands of years in the future and told by space probes. It also explores advanced technology, new societal rules, and a future beyond capitalism. All of these tendencies are common in the science-fiction genre. 
 
 What I found particularly interesting, however, was the way Bois actually stuck to conventions of sports journalism, and incorporated several elements of the genre into his rather futuristic  piece. It’s important here to keep in mind the type of writing that Bois typically does and the stories that live on SB nation—both Bois and SB Nation typically report on sports. This tendency is definitely evident in 17776. The way the piece toggles through highlights of certain games aligns with typical NFL reporting—an NFL “Redzone” of sorts. Juice will often “tune in” to specific instances in specific games, similar to how a sports reporter would highlight plays to an audience. Furthermore, the chapter titled “Page, Arizona” features possibly the most direct link to modern sports journalism. Although the topic of “Garbage Football” is unconventional, the way Roger and the other reporter speak to each other closely mimics the banter of two hosts announcing a game. They report:
+
 Anyways, yes. Game 96249. Rog, this is the one you've been wanting to get around to for a long time.
 Yes. Normally I'd be worried about overselling one of these, but this one is good. This is better than the Typo Game.
 
