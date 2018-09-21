@@ -2,22 +2,14 @@
 layout: post
 title: "Welcome to Jekyll"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Jon Bois’s “The Future of Football” leaves many areas to be unpacked. Bois makes use of videos, text, conversations, newspaper clips, images, maps, graphics, and other mediums to construct a futuristic society. Although the story tackles subjects like mortality, technology, and human nature, the root is grounded in sports tradition that is popular today: football. The variety of mediums and the array of topics Bois features work to complicate the notion of genre as we know it. In order to more fully understand the use of genre in “The Future of Football”, I want to parse out elements of both sports journalism and science fiction that are apparent in the story. 
+The science fiction elements of 17776 are fairly clear. The story is set thousands of years in the future and told by space probes. It also explores advanced technology, new societal rules, and a future beyond capitalism. All of these tendencies are common in the science-fiction genre. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+What I found particularly interesting, however, was the way Bois actually stuck to conventions of sports journalism, and incorporated several elements of the genre into his rather futuristic  piece. It’s important here to keep in mind the type of writing that Bois typically does and the stories that live on SB nation—both Bois and SB Nation typically report on sports. This tendency is definitely evident in 17776. The way the piece toggles through highlights of certain games aligns with typical NFL reporting—an NFL “Redzone” of sorts. Juice will often “tune in” to specific instances in specific games, similar to how a sports reporter would highlight plays to an audience. Furthermore, the chapter titled “Page, Arizona” features possibly the most direct link to modern sports journalism. Although the topic of “Garbage Football” is unconventional, the way Roger and the other reporter speak to each other closely mimics the banter of two hosts announcing a game. They report:
+Anyways, yes. Game 96249. Rog, this is the one you've been wanting to get around to for a long time.
+Yes. Normally I'd be worried about overselling one of these, but this one is good. This is better than the Typo Game.
 
-Jekyll also offers powerful support for code snippets:
+Similarly, in “Bee, Nebraska” two viewers “tune in” and again, the radio voices are similar to typical sports-casting. 
+Bois also tackles an issue that is prevalent in football today. In “Denver, Colorado”, Juice explains to 9 how one particular game of football became what it is today. He mentions, “Territories 8, 9, 10 and 11 were plotted out as an attempt to connect the Steelers and Broncos, so they could still actually play some kind of traditional football game. but rules on top of rules on top of rules made that impossible.” In this passage, I think Bois offers his own commentary of rules in the NFL today. Certain rules (what constitutes a catch, when does a receiver become a runner, what is considered out of bounds, what is a touchdown, where do we kick a field goal from, etc.) are changing and becoming more complicated annually. Bois’s far-fetched version of football could be satirizing this NFL tendency. Again, the parallels to sports journalism and sports topics are apparent. Again, the genres of science-fiction and sports reporting are complicated. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Perhaps Bois included elements of both strategically, not only to create a compelling story but also to show the possibilities of experimental writing. He touches on this in a Q and A, explaining, “We’ve got to start thinking of the Internet as something more than a glow-in-the-dark newspaper.” This begs a larger question, but the reach goes beyond the scope of a short blog post; how do experimental writing styles, made possible by the capabilities of the Internet, deconstruct (or perhaps reconstruct) our ideas surrounding genre? By constructing a piece that mingles with two different genres so distinctly, Bois is displaying the possibilities of the Internet while exploring the implications it has on genre. 
