@@ -1,6 +1,8 @@
-Complicating Genre in "The Future of Football"
+---
+layout: post
+title: "Complicating Genre in "The Future of Football"
+---
     
-
 
 Jon Bois’s “The Future of Football” leaves many areas to be unpacked. Bois makes use of videos, text, conversations, newspaper clips, images, maps, graphics, and other mediums to construct a futuristic society. Although the story tackles subjects like mortality, technology, and human nature, the root is grounded in sports tradition that is popular today: football. The variety of mediums and the array of topics Bois features work to complicate the notion of genre as we know it. In order to more fully understand the use of genre in “The Future of Football”, I want to parse out elements of both sports journalism and science fiction that are apparent in the story. 
 The science fiction elements of 17776 are fairly clear. The story is set thousands of years in the future and told by space probes. It also explores advanced technology, new societal rules, and a future beyond capitalism. All of these tendencies are common in the science-fiction genre. 
