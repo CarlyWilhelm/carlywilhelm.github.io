@@ -1,124 +1,20 @@
 ---
 layout: post
-title: "Example content"
+title: "What is 'truth', anyway?"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This week’s readings grapple with the idea of **truth**, both in the fiction and non-fiction genres. I would like to hone in on the two intertwining story lines in “The Truth of Fact, the Truth of Feeling”, a sci-fi piece with historical undertones. While many readers seek “truth” as an objective fact, Chiang complicates this possibility. What is true and untrue is so engrained in our own beliefs, biases, and predisposition—even without us realizing it. Bringing a European into the Tiv world highlights the inherent ideological differences people can have, and shows how these differences determine how we create truth. The following exchange about the Tiv people provides an example:
 
-[Link to another page: About]({{ site.baseurl }}/about).
+_Moseby spread open the sheaf of paper and gestured toward it. “Have you heard the
+story of Adam?” he asked. “Adam was the first man. We are all children of Adam.”_
 
-There should be whitespace between paragraphs.
+_“Here we are descendants of Shangev,” said Jijingi. “And everyone in Tivland is a
+descendant of Tiv.”_
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Both the missionary and Jijingi both feel that their version of history is objectively true. However, it is clear that their religious and cultural differences account for the inconsistencies about their ancestry. So, which character is lying? The word “lie”, filled with negative connotation and frowned upon, is usually pitted against the word “true”. Often, though, that is an inaccurate portrayal of the conversation. Here, neither the missionary or Jijingi feel that they are lying; there is not a truth and a lie, but instead there are two different truths. 
 
-# [](#header-1)Header 1
+This line of thinking led me to relate this reading to a piece of scholarship that I read in another class. Kenneth Burke offers the idea of terministic screens, which he defines as, “a screen composed of terms through which humans perceive the world" (I got this quote from a Wikipedia [page](https://en.wikipedia.org/wiki/Terministic_screen), but Burke’s book is called [Language as a Symbolic Action]). While Burke’s work is centered more on the language people use, it still considers that a person’s background is a “screen” that alters the way they see the world. Each word we choose to use is a “representation of our reality, our world, our culture, and our beliefs, even without intention” (Wikipedia). This message can help to make sense of why the missionary and Jijingi have different truths about the creation of people. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+Both Chiang’s story and Burke’s “terministic screens” provide explanations of objective and subjective truths. But how do these two authors relate to technology? Towards the end of his story, Chiang concludes “We don’t normally think of it as such, but writing is a technology, which means that a literate person is someone whose thought processes are technologically mediated”. In this way, our writing shapes our lives but also is shaped by our lives. Burke would argue that the same is true with language. As we think about technology, it is important to consider similar thoughts. **How does technology shape our lives, but also, how do our lives shape how we use technology?**
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
